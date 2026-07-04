@@ -1,10 +1,10 @@
 {
-  "version": "0.1.3",
-  "notes": "v0.1.3",
-  "pub_date": "2026-07-03T12:13:25.067Z",
+  "version": "0.1.4",
+  "notes": "v0.1.4",
+  "pub_date": "2026-07-04T14:28:49.075Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeWowYi9YeVNGcTRVUGhhVTQrdWpadGpZZmUzVWV1bmhnNW45VHZmeDdZSDlRMUl1cEtyL0hxKzlHdTYzcGlQL00rMXZHaU1iSkdBcFlFZ0pWR0NZWTI3QXMzM0NPNnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDgwNzc4CWZpbGU6TWVkaWNhbFBheUluc2lnaHQuYXBwLnRhci5negpKNzVkM3ZqYlNOY3RvRkV2dVMwbVZvRmJJaHVnK3NpbnE0bWxnNzQvRE5FSXhidm1jSVpZdG1aMU05cGhPRm9EdFVlVDBUY2Q3L1dRRzhuSXpSZEZDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeWowYi9YeVNGcTZrUHh6Wlc2VGlwODFjeEk3QjlDMzFLOENyOFhHSXhFa2hjb3g5M2JESTlMZzNRQjR2MTZSZCtYV1l4bHJrNmU3NXhoakRSWVBDOEJpbzM1cCtoSUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTc1MzAyCWZpbGU6TWVkaWNhbFBheUluc2lnaHQuYXBwLnRhci5negpoVENDVlFPTXRMb2IrYmR3UzhlOC84bFE3ZytHZ1gzcWZoZVo4R01pdlZ6YTltQ0tqNWF5dWhROTBiQ1Q1QUtFaTczQjVNYys0MEJYNHBYN1RUWTNCUT09Cg==",
       "url": "https://sensecare.github.io/medicalpay-insight-updates/MedicalPayInsight.app.tar.gz"
     }
   }
